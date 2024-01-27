@@ -8,3 +8,6 @@ Sources I used:
 
     https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.aggregate.html
         To use aggregation method to create summary statistics (Input 8)
+
+    https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.isin.html
+        TO create DataFrame with only the values in a certin column (Input 13)
