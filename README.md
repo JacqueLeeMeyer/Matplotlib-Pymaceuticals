@@ -13,5 +13,5 @@ Sources I used:
         TO create DataFrame with only the values in a certin column (Input 13)
 
 Note on Pie Charts:
-    I used .unique as opposed to the .value-counts because I felt that using the 248 unique Mouse IDs to get the percentages of Males vs Females made more sense than counting all 1880 timepoints with a male/female attribute. This caused me percentages to be a little different than the example (which I am assuming used the .value-counts method).
+    I used .unique as opposed to the .value-counts because I felt that using the 248 unique Mouse IDs to get the percentages of Males vs Females made more sense than counting all 1880 timepoints with a male/female attribute. This caused my percentages to be a little different than the example (which I am assuming used the .value-counts method).
 
