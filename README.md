@@ -4,6 +4,9 @@ This challenge/assignment was using data from drug trials on mice.
 
 After cleaning the data I created a dataframe for Summary Statistics.
 
+![image](https://github.com/JacqueLeeMeyer/Matplotlib-Pymaceuticals/assets/149394665/1df2ec88-ea41-443f-9954-fe42d5af9fa1)
+
+
 I then created the following graphs:
 
 ### Bar graph of Total timepoints for each Drug
